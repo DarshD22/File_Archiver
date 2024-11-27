@@ -1,4 +1,4 @@
-# Huffman_Coding File Archiver
+# Huffman Coding File Archiver
 
 Self-made C++ file archiver and archive extractor programs based on Huffman's lossless compression algorithm
 
